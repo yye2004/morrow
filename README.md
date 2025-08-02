@@ -1,2 +1,2 @@
 # tomorrowdo
-todo-app. today work tomorrow do
+todo-app. today's work tomorrow do
