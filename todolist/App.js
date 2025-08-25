@@ -288,7 +288,7 @@ const styles = StyleSheet.create({
     modalCard: {
         width: '100%',
         backgroundColor: '#FFF',
-        borderRadius: 50,
+        borderRadius: 20,
         padding: 16,
     },
     modalTitle: { fontSize: 18, fontWeight: '600', marginBottom: 8 },
