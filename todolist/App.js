@@ -235,7 +235,7 @@ const styles = StyleSheet.create({
         width: 60,
         height: 60,
         backgroundColor: '#FFF',
-        borderRadius: 60,
+        borderRadius: 50,
         justifyContent: 'center',
         alignItems: 'center',
         borderColor: '#C0C0C0',
@@ -250,7 +250,7 @@ const styles = StyleSheet.create({
         backgroundColor: '#34D399',
         paddingHorizontal: 20,
         marginBottom: 20,
-        borderRadius: 10,
+        borderRadius: 50,
     },
     swipeText: { color: '#fff', fontWeight: '700' },
 
@@ -269,7 +269,7 @@ const styles = StyleSheet.create({
         paddingHorizontal: 16,
         paddingVertical: 12,
         backgroundColor: '#333',
-        borderRadius: 12,
+        borderRadius: 50,
         gap: 16,
         minWidth: 260,
         maxWidth: '92%',
@@ -288,14 +288,14 @@ const styles = StyleSheet.create({
     modalCard: {
         width: '100%',
         backgroundColor: '#FFF',
-        borderRadius: 16,
+        borderRadius: 50,
         padding: 16,
     },
     modalTitle: { fontSize: 18, fontWeight: '600', marginBottom: 8 },
     modalInput: {
         borderWidth: 1,
         borderColor: '#C0C0C0',
-        borderRadius: 10,
+        borderRadius: 50,
         paddingHorizontal: 12,
         paddingVertical: 10,
         backgroundColor: '#FFF',
@@ -309,7 +309,7 @@ const styles = StyleSheet.create({
     actionBtn: {
         paddingVertical: 10,
         paddingHorizontal: 14,
-        borderRadius: 10,
+        borderRadius: 50,
     },
     cancelBtn: {
         backgroundColor: '#EEE',
