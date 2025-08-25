@@ -247,7 +247,7 @@ const styles = StyleSheet.create({
     swipeAction: {
         justifyContent: 'center',
         alignItems: 'flex-start',
-        backgroundColor: '#34D399',
+        backgroundColor: '#9ebfd3',
         paddingHorizontal: 20,
         marginBottom: 20,
         borderRadius: 50,
@@ -275,7 +275,7 @@ const styles = StyleSheet.create({
         maxWidth: '92%',
     },
     undoText: { color: '#fff' },
-    undoButtonText: { color: '#55BCF6', fontWeight: '700' },
+    undoButtonText: { color: '#9ebfd3', fontWeight: '700' },
 
     // Modal
     modalBackdrop: {
@@ -315,7 +315,7 @@ const styles = StyleSheet.create({
         backgroundColor: '#EEE',
     },
     saveBtn: {
-        backgroundColor: '#55BCF6',
+        backgroundColor: '#9ebfd3',
     },
     actionText: { fontWeight: '600' },
     saveText: { color: '#fff' },
