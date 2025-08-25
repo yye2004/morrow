@@ -81,5 +81,5 @@ npx expo start -c
 * ✏️ **Edit task** — tap a row
 * ✅ **Complete task** — swipe right to reveal “Complete”, release to trigger
 * ↩️ **Undo** — tap **UNDO** in the snackbar (appears for ~4s)
-
-> 
+___
+<img src="./todolist/assets/demo.gif" alt="Demo Morrow"/>
