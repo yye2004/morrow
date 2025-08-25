@@ -17,7 +17,7 @@ const styles = StyleSheet.create({
     item: {
         backgroundColor: '#FFF',
         padding: 15,
-        borderRadius: 100,
+        borderRadius: 10,
         flexDirection: 'row',
         alignItems: 'center',
         justifyContent: 'space-between',
@@ -33,7 +33,7 @@ const styles = StyleSheet.create({
         height: 24,
         backgroundColor: '#55BCF6',
         opacity: 0.4,
-        borderRadius: 50,
+        borderRadius: 5,
         marginRight: 15,
     },
     itemText: {
@@ -44,7 +44,7 @@ const styles = StyleSheet.create({
         height: 12,
         borderColor: '#55BCF6',
         borderWidth: 2,
-        borderRadius: 50,
+        borderRadius: 5,
     },
 });
 
